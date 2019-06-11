@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /password-procesado
+Disallow: /recuperacion-password
+Disallow: /registro-satisfactorio
